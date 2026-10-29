@@ -1,8 +1,8 @@
 {
- "version": "1.11.1",
+ "version": "1.11.2",
  "shell": 1,
  "zip": "modules.zip",
- "size": 81195,
- "sha256": "c777f3c752654a8609ac9aa6c93679e310a3d27125b83d5a9868f9cd62e34c32",
- "notes": "v1.11.1 檢查報告改標楷體+Times New Roman"
+ "size": 81314,
+ "sha256": "b544155cafc8c0b9adcdb36f67ffa931a042f64a7256cd424e9437ca6d2ab231",
+ "notes": "v1.11.2 意見草稿同維修期限合併"
 }

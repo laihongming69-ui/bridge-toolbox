@@ -1,8 +1,8 @@
 {
- "version": "1.9.6",
+ "version": "1.9.7",
  "shell": 1,
  "zip": "modules.zip",
- "size": 66897,
- "sha256": "6f707020d7b485fea07c04d18535704c3a14cfe023b29bb006392056ca5383b8",
- "notes": "v1.9.6：關閉視窗或停止時一併結束背景壓縮程序"
+ "size": 67291,
+ "sha256": "477235f64d452d5b0314e4f31af5cb959bd0b5ff65fbdad08a35835cdda4f8d2",
+ "notes": "v1.9.7：修正重複開啟導致退回舊版；加啟動紀錄"
 }

@@ -1,8 +1,8 @@
 {
- "version": "1.9.4",
+ "version": "1.9.5",
  "shell": 1,
  "zip": "modules.zip",
- "size": 65908,
- "sha256": "a00c2933ad2ac6b1146fddd6f8dcd73981287043a41f814fc00a84135b138a83",
- "notes": "v1.9.4：舊EXE外殼自動改單程序避免卡死；多核心需重新打包EXE"
+ "size": 66323,
+ "sha256": "c19bf990ad5cc83e711473cff9ce74ae361ca9c904f9474ff197b614fff98332",
+ "notes": "v1.9.5：清單整批更新解決沒有回應；顯示已完成與速度；照片壓縮（高速）"
 }

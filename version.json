@@ -1,8 +1,8 @@
 {
- "version": "1.13.0",
+ "version": "1.13.2",
  "shell": 1,
  "zip": "modules.zip",
- "size": 74132,
- "sha256": "8785cdf33edc489eb3caa07d509c7c55fb50d429eede5afddc23b5c7b838809f",
- "notes": "v1.13.0 照片壓縮新增強化壓縮（PNG 一併壓，格式不變）"
+ "size": 74434,
+ "sha256": "944725064c838a2d5e2b41a2be52aa43efee41246ec842842ea0e1ef1752815f",
+ "notes": "v1.13.2 強化壓縮：超大照片縮到4096像素"
 }

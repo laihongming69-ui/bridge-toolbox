@@ -1,8 +1,8 @@
 {
- "version": "1.9.2",
+ "version": "1.9.3",
  "shell": 1,
  "zip": "modules.zip",
- "size": 64073,
- "sha256": "e3b9dfaf041467e175a49e9dffa31270f112f4c31f2804453e426522a612099d",
- "notes": "v1.9.2：照片壓縮略過已壓縮照片；按開始不再卡住"
+ "size": 65667,
+ "sha256": "2fe007e42becd712cde724d4cee27d961a8b8eceb10ffcec8c2a041a42979434",
+ "notes": "v1.9.3：照片壓縮改多核心程序不卡畫面；清單逐張打勾；單一視窗"
 }

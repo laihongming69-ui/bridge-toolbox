@@ -1,8 +1,8 @@
 {
- "version": "1.11.2",
+ "version": "1.12.0",
  "shell": 1,
  "zip": "modules.zip",
- "size": 81314,
- "sha256": "b544155cafc8c0b9adcdb36f67ffa931a042f64a7256cd424e9437ca6d2ab231",
- "notes": "v1.11.2 意見草稿同維修期限合併"
+ "size": 81853,
+ "sha256": "ea31fdf352a1760617945b0ef6bf6477d4d9b10b773ddcc9200fd596ff9a32d3",
+ "notes": "v1.12.0 檢測表整理新增只留汛期後構件"
 }

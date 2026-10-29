@@ -1,8 +1,8 @@
 {
- "version": "1.9.1",
+ "version": "1.9.2",
  "shell": 1,
  "zip": "modules.zip",
- "size": 63019,
- "sha256": "7e28b61764b46a9a620bf1fe8580ca254228afef0e82a0fbd5648e20089d37e5",
- "notes": "v1.9.1：視窗預設改小；JPG 品質預設 50"
+ "size": 64073,
+ "sha256": "e3b9dfaf041467e175a49e9dffa31270f112f4c31f2804453e426522a612099d",
+ "notes": "v1.9.2：照片壓縮略過已壓縮照片；按開始不再卡住"
 }

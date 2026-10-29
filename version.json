@@ -1,8 +1,8 @@
 {
- "version": "1.12.7",
+ "version": "1.13.0",
  "shell": 1,
  "zip": "modules.zip",
- "size": 73741,
- "sha256": "3f1e72c8d1c91c1d4465d739f3d3738033ef95485d11992e3e9ff4e13fa69775",
- "notes": "v1.12.7 紙表：清掉舊分頁符號造成的空白頁"
+ "size": 74132,
+ "sha256": "8785cdf33edc489eb3caa07d509c7c55fb50d429eede5afddc23b5c7b838809f",
+ "notes": "v1.13.0 照片壓縮新增強化壓縮（PNG 一併壓，格式不變）"
 }

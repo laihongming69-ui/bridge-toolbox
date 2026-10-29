@@ -1,8 +1,8 @@
 {
- "version": "1.13.2",
+ "version": "1.13.3",
  "shell": 1,
  "zip": "modules.zip",
- "size": 74434,
- "sha256": "944725064c838a2d5e2b41a2be52aa43efee41246ec842842ea0e1ef1752815f",
- "notes": "v1.13.2 強化壓縮：超大照片縮到4096像素"
+ "size": 74865,
+ "sha256": "c8779ac7b6d54952968021b2ff268d73cb08b03621b248c92df4883a3e3fcb40",
+ "notes": "v1.13.3 勾選框改成打勾"
 }

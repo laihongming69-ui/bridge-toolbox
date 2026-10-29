@@ -1,8 +1,8 @@
 {
- "version": "1.12.6",
+ "version": "1.12.7",
  "shell": 1,
  "zip": "modules.zip",
- "size": 73547,
- "sha256": "9c7daaddf6e77a93f2ea71b9326711e81380674edabdc3eca0c31f300c726a2c",
- "notes": "v1.12.6 新增頁碼選項"
+ "size": 73741,
+ "sha256": "3f1e72c8d1c91c1d4465d739f3d3738033ef95485d11992e3e9ff4e13fa69775",
+ "notes": "v1.12.7 紙表：清掉舊分頁符號造成的空白頁"
 }

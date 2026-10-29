@@ -1,8 +1,8 @@
 {
- "version": "1.10.0",
+ "version": "1.11.0",
  "shell": 1,
  "zip": "modules.zip",
- "size": 67855,
- "sha256": "5d00d46731ffb5cde2f80e212d3e70e3370a69c412399761a5672d9d846bff43",
- "notes": "v1.10.0：照片壓縮支援 PPT、Excel 內嵌照片"
+ "size": 80977,
+ "sha256": "0a82cb13aea977f5e155b62f09dbff5096e05fa7d2993dd780c2efec6585408a",
+ "notes": "v1.11.0 新增檢查檢測紀錄（汛期前/後）"
 }

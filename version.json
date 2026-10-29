@@ -1,8 +1,8 @@
 {
- "version": "1.12.3",
+ "version": "1.12.4",
  "shell": 1,
  "zip": "modules.zip",
- "size": 72640,
- "sha256": "4a2f9699715891e44b04d9a857727497717c59c9af3fc7e6366254e508fbd103",
- "notes": "v1.12.3 紙表配對改良（編號或橋名、資料夾判斷前後）"
+ "size": 72822,
+ "sha256": "23dffd6ca63a0a027c0c6ccd0d31a5a9ddd2147f72b25763849ab21691dbce8d",
+ "notes": "v1.12.4 紙表配對：封面讀不到時改用檔名配對"
 }

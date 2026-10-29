@@ -1,8 +1,8 @@
 {
- "version": "1.12.5",
+ "version": "1.12.6",
  "shell": 1,
  "zip": "modules.zip",
- "size": 72851,
- "sha256": "17d5fc8fe4597f1b8d77a2be067f12098d509704dd2253df1d52e907e69a19b6",
- "notes": "v1.12.5 紙表說明文字"
+ "size": 73547,
+ "sha256": "9c7daaddf6e77a93f2ea71b9326711e81380674edabdc3eca0c31f300c726a2c",
+ "notes": "v1.12.6 新增頁碼選項"
 }

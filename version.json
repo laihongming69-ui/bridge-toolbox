@@ -1,8 +1,8 @@
 {
- "version": "1.12.4",
+ "version": "1.12.5",
  "shell": 1,
  "zip": "modules.zip",
- "size": 72822,
- "sha256": "23dffd6ca63a0a027c0c6ccd0d31a5a9ddd2147f72b25763849ab21691dbce8d",
- "notes": "v1.12.4 紙表配對：封面讀不到時改用檔名配對"
+ "size": 72851,
+ "sha256": "17d5fc8fe4597f1b8d77a2be067f12098d509704dd2253df1d52e907e69a19b6",
+ "notes": "v1.12.5 紙表說明文字"
 }

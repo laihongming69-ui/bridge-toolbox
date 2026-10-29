@@ -1,8 +1,8 @@
 {
- "version": "1.12.0",
+ "version": "1.12.1",
  "shell": 1,
  "zip": "modules.zip",
- "size": 81853,
- "sha256": "ea31fdf352a1760617945b0ef6bf6477d4d9b10b773ddcc9200fd596ff9a32d3",
- "notes": "v1.12.0 檢測表整理新增只留汛期後構件"
+ "size": 81803,
+ "sha256": "a6f47fd1abb62d2198140f6bcd6e828c254e22e4d8a4c87f124ff66894f463ab",
+ "notes": "v1.12.1 只留汛期後構件：其他構件總表整張刪除"
 }

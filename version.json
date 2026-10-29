@@ -1,8 +1,8 @@
 {
- "version": "1.9.9",
+ "version": "1.10.0",
  "shell": 1,
  "zip": "modules.zip",
- "size": 67735,
- "sha256": "d86acfd9aaa1d09989f30931a6591549e58571b62c382b3a044e6a4dd721fa35",
- "notes": "v1.9.9：照片壓縮改目標大小約700KB，解析度不變，畫面精簡"
+ "size": 67855,
+ "sha256": "5d00d46731ffb5cde2f80e212d3e70e3370a69c412399761a5672d9d846bff43",
+ "notes": "v1.10.0：照片壓縮支援 PPT、Excel 內嵌照片"
 }

@@ -1,8 +1,8 @@
 {
- "version": "1.13.3",
+ "version": "1.13.4",
  "shell": 1,
  "zip": "modules.zip",
- "size": 74865,
- "sha256": "c8779ac7b6d54952968021b2ff268d73cb08b03621b248c92df4883a3e3fcb40",
- "notes": "v1.13.3 勾選框改成打勾"
+ "size": 74864,
+ "sha256": "6f2c92f12f5887987be233f616bec18745483778e7893facaac1e713426a1fe5",
+ "notes": "v1.13.4 強化壓縮預設打勾"
 }
